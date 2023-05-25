@@ -5,6 +5,15 @@
 1. Vagrant
 2. Virtualbox
 
+## Important note
+
+Every time you start an exam destroy the previous VM and then recreate it using:
+
+```
+    $ vagrant destroy
+    $ vagrant up
+```
+
 ## Usage
 
 1. ***Provision the virtual exam machines***
